@@ -18,13 +18,3 @@ Mając dwia ciągi znaków składające się z + i -, zwróć nowy ciąg znaków
 - Kiedy "-" oddziałuje z "-", pozostaje "-.
 - Ale kiedy "-" oddziałuje z "+", stają się neutralne i są przedstawiane jako liczba 0.
 
-
-
-
-
-
-# CodeWars Solutions Repository
-
-W tym repozytorium znajdziesz moje rozwiązania do różnych zadań z platformy CodeWars. To idealne miejsce do zaprezentowania mojego postępu w programowaniu oraz umiejętności rozwiązywania różnorodnych wyzwań programistycznych. Zapraszam do przejrzenia kodu i dzielenia się pomysłami!
-
-
