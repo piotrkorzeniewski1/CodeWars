@@ -1,4 +1,4 @@
-## Cycle a list of values
+## Task 1 Cycle a list of values
 
 Instrukcje
 Zaimplementuj funkcję, która, mając dane następujące argumenty:
