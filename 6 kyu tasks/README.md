@@ -8,3 +8,4 @@ Zaimplementuj funkcję, która, mając dane następujące argumenty:
 -Obecna wartość zwraca wartość znajdującą się obok obecnej wartości w określonym kierunku.
 
 Funkcja powinna wybierać następną wartość z przeciwnej strony listy w przypadku braku wartości w podanym kierunku.
+
