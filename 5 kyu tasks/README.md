@@ -1,6 +1,6 @@
 ## Task 1 Moving Zeros To The End
 
-Napisz algorytm, który przyjmuje tablicę i przesuwa wszystkie zera na koniec, zachowując kolejność pozostałych elementów.
+Napisz algorytm, który przyjmuje tablicę i przesuwa wszystkie zera na koniec, zachowując kolejność pozostałych elementów. 
 
 | Input                        | Output                                 |
 |---------------------------------|---------------------------------------|
