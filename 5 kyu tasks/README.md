@@ -16,3 +16,16 @@ Napisz funkcję, która przyjmuje nieujemną liczbę całkowitą (sekundy) jako 
 - **SS** - sekundy, uzupełnione do 2 cyfr, zakres: 00 - 59
 
 Maksymalny czas nie przekracza nigdy 359999 (`99:59:59`).
+
+## Task 3 RGB To Hex Conversion
+
+Funkcja rgb jest niekompletna. Uzupełnij ją tak, aby przekazanie wartości dziesiętnych RGB spowodowało zwrócenie reprezentacji heksadecymalnej. Dopuszczalne wartości dziesiętne RGB to 0 - 255. Wszystkie wartości spoza tego zakresu muszą zostać zaokrąglone do najbliższej dopuszczalnej wartości.
+
+Uwaga: Twoja odpowiedź zawsze powinna mieć 6 znaków, forma skrócona z 3 nie zadziała tutaj.
+
+| Input          | Output    |
+| --------------- | --------- |
+| 255, 255, 255   | "FFFFFF" |
+| 255, 255, 300   | "FFFFFF" |
+| 0, 0, 0         | "000000" |
+| 148, 0, 211     | "9400D3" |
