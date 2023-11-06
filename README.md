@@ -12,7 +12,7 @@ W tym repozytorium znajdziesz moje rozwiązania do różnych zadań z platformy 
 | 7 kyu           | Łatwe zadania, odpowiednie dla początkujących. |
 | 6 kyu           | Średnio zaawansowane zadania.         |
 | 5 kyu           | Zadania na poziomie zaawansowanym.        |
-| 4 kyu           | Trudne zadania wymagające zaawansowanych umiejętności. |
+| 4 kyu           | Trudne zadania wymagające zaawansowanych umiejętności. | 
 | 3 kyu           | Bardzo trudne zadania, odpowiednie dla zaawansowanych programistów. |
 | 2 kyu           | Bardzo trudne zadania, przeznaczone dla ekspertów.    |
 | 1 kyu           | Najtrudniejsze zadania na Codewars, tylko dla ekspertów.    | 
