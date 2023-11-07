@@ -15,5 +15,5 @@ W tym repozytorium znajdziesz moje rozwiązania do różnych zadań z platformy 
 | 4 kyu           | Trudne zadania wymagające zaawansowanych umiejętności. | 
 | 3 kyu           | Bardzo trudne zadania, odpowiednie dla zaawansowanych programistów. |
 | 2 kyu           | Bardzo trudne zadania, przeznaczone dla ekspertów.    |
-| 1 kyu           | Najtrudniejsze zadania na Codewars, tylko dla ekspertów.    | 
+| 1 kyu           | Najtrudniejsze zadania na Codewars, tylko dla ekspertów.    |  
  
