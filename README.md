@@ -9,7 +9,7 @@ W tym repozytorium znajdziesz moje rozwiązania do różnych zadań z platformy 
 | Poziom Trudności | Opis                                       |   
 |----------------|-------------------------------------------|
 | 8 kyu           | Najłatwiejsze zadania na Codewars.      |
-| 7 kyu           | Łatwe zadania, odpowiednie dla początkujących. |
+| 7 kyu           | Łatwe zadania, odpowiednie dla początkujących. | 
 | 6 kyu           | Średnio zaawansowane zadania.         |
 | 5 kyu           | Zadania na poziomie zaawansowanym.        |
 | 4 kyu           | Trudne zadania wymagające zaawansowanych umiejętności. | 
