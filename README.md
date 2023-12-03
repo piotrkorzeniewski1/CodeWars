@@ -17,3 +17,4 @@ W tym repozytorium znajdziesz moje rozwiązania do różnych zadań z platformy 
 | 2 kyu           | Bardzo trudne zadania, przeznaczone dla ekspertów.    |
 | 1 kyu           | Najtrudniejsze zadania na Codewars, tylko dla ekspertów.    |   
  
+ 
